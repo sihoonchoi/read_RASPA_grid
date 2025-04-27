@@ -9,6 +9,7 @@ A high-throughput script for efficiently reading, parsing, and extracting data f
    gcc -o readVDWGrid readVDWGrid.c
    gcc -o readCoulombGrid readCoulombGrid.c
   ```
+
 3. Run the executables to extract the grid data:
   ```bash
   ./readVDWGrid
