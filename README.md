@@ -1,2 +1,2 @@
-# read_RASPA_grid
-Set up high-throughput RASPA grid generation and read the output GRID files
+# Read and Extract RASPA Grids
+A high-throughput script for efficiently reading, parsing, and extracting data from RASPA GRID files
